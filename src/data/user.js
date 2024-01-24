@@ -64,6 +64,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://my-ecommerce-mw7jnni9b-mnogot098.vercel.app/kids",
 		},
+		{
+			title: "Admin dashboard",
+			description:
+				"Explore a cutting-edge React.js-powered dashboard admin application, offering a dynamic and responsive user interface designed to elevate functionality and deliver an immersive user experience",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com/mnogot098/react-dashboard",
+		},
 	],
 };
 
