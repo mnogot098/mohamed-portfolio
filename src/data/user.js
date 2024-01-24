@@ -1,3 +1,9 @@
+import dashboardLogo from "../assets/dashboardLogo.png";
+import e_commerceLogo from "../assets/e_commerce.jpg";
+import gymLogo from "../assets/gym.png";
+import incoiceLogo from "../assets/invoice.jpg";
+import receipiesLogo from "../assets/receipies.jpg";
+
 const INFO = {
 	main: {
 		title: "Full stack developer",
@@ -25,15 +31,14 @@ const INFO = {
 
 	articles: {
 		title: "I find inspiration in pushing limits and fueling the imagination of future innovators, driven by a passion for exploring new possibilities.",
-		description:
-			"",
+		description: "",
 	},
 
 	projects: [
 		{
 			title: "Gym landing page",
 			description: "React.js & Css powered landing page for gym.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: gymLogo,
 			linkText: "View Project",
 			link: "https://github.com/mnogot098/gym-landing-page",
 		},
@@ -42,7 +47,7 @@ const INFO = {
 			title: "Invoice app",
 			description:
 				"Introducing an Invoice Calculator, a web app based on ReactJS for quick and efficient invoicing.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: incoiceLogo,
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -51,7 +56,7 @@ const INFO = {
 			title: "E-recipes",
 			description:
 				"E_recipes lets you explore and enjoy a range of delightful dishes. With clear instructions and vibrant visuals.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: receipiesLogo,
 			linkText: "View Project",
 			link: "https://github.com/mnogot098/Erecipes",
 		},
@@ -60,7 +65,7 @@ const INFO = {
 			title: "E-commerce",
 			description:
 				"Discover a dynamic React.js-based web app, delivering a modern and responsive user interface for enhanced functionality and an engaging user experience..",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: e_commerceLogo,
 			linkText: "View Project",
 			link: "https://my-ecommerce-mw7jnni9b-mnogot098.vercel.app/kids",
 		},
@@ -68,7 +73,7 @@ const INFO = {
 			title: "Admin dashboard",
 			description:
 				"Explore a cutting-edge React.js-powered dashboard admin application, offering a dynamic and responsive user interface designed to elevate functionality and deliver an immersive user experience",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: dashboardLogo,
 			linkText: "View Project",
 			link: "https://github.com/mnogot098/react-dashboard",
 		},
