@@ -119,7 +119,7 @@ const Homepage = () => {
 							>
 								<FontAwesomeIcon
 									icon={faLinkedin}
-									className="homepage-social-icon"
+									className="homepage-social-icon linkedin-icon"
 								/>
 							</a>
 							<a
@@ -129,7 +129,7 @@ const Homepage = () => {
 							>
 								<FontAwesomeIcon
 									icon={faGithub}
-									className="homepage-social-icon"
+									className="homepage-social-icon github-icon"
 								/>
 							</a>
 						</div>

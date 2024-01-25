@@ -18,7 +18,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Dynamic Full-Stack Web Developer: Crafting Seamless Digital Experiences.",
+		title: "Innovative Full-Stack Developer: Building Seamless Online Journeys.",
 		description:
 			"I am a Fullstack Developer with proficiency in React.js and Node.js. I have a wealth of experience in constructing scalable, secure, and dependable web applications using diverse frameworks and technologies. I thrive on solving intricate problems and eagerly embrace opportunities to acquire new skills. My dedication revolves around producing top-notch code that aligns with best practices and industry standards. I am always on the lookout for novel challenges and avenues to foster my growth as a developer.",
 	},
