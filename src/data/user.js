@@ -3,6 +3,7 @@ import e_commerceLogo from "../assets/e_commerce.jpg";
 import gymLogo from "../assets/gym.png";
 import incoiceLogo from "../assets/invoice.jpg";
 import receipiesLogo from "../assets/receipies.jpg";
+import chatapp from "../assets/chatapp.png";
 
 const INFO = {
 	main: {
@@ -76,6 +77,13 @@ const INFO = {
 			logo: dashboardLogo,
 			linkText: "View Project",
 			link: "https://github.com/mnogot098/react-dashboard",
+		},
+		{
+			title: "Chat application",
+			description: "Reactjs/firebase based application",
+			logo: chatapp,
+			linkText: "View Project",
+			link: "https://github.com/mnogot098/chat-app",
 		},
 	],
 };
