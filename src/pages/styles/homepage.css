@@ -95,7 +95,7 @@
 .homepage-works {
 	padding-top: 30px;
 	width:100%;
-	background-color: rgba(244, 244, 244, 0.327);
+	background-color: white;
 }
 
 @media (max-width: 1024px) {

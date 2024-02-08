@@ -6,8 +6,9 @@
 
 .work {
 	display: flex;
-	padding-bottom: 40px;
-	width: 400px;
+	padding: 20px 40px;
+	width: 100%;
+	margin: 10px;
 }
 
 .work-image {
